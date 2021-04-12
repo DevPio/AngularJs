@@ -1,0 +1,22 @@
+.painel-animado.ng-leave-active {
+    -moz-transform: scale(0.01);
+    -webkit-transform: scale(0.01);
+    -ms-transform: scale(0.01);
+    -o-transform: scale(0.01);
+    transform: scale(0.01);
+    
+   
+    
+  } 
+
+  .painel-animado{
+    -moz-transform: scale(0.01);
+    -webkit-transform: scale(0.01);
+    -ms-transform: scale(0.01);
+    -o-transform: scale(0.01);
+    transform: scale(0.01);
+    transition: transform 0.8s;
+    
+  } 
+
+
